@@ -1,2 +1,4 @@
 # Sunset
 An application with animation. Made according to the book "Android for professionals 4th edition".
+
+  <img src="https://s423vla.storage.yandex.net/rdisk/3ffedde7abc18114abafce37b4b047897663cd53c933f8e16a01c946a6a3fa92/6418cfbc/qvUn5rdetz4fKZdBAuen6haplJKfvdoEDY_Gp-uqRBSX2sZ71DJ2mtBq3iHJxbAVTiOuQYvdzQRapUdZiCaZiA==?uid=412389636&filename=University_animation.gif&disposition=inline&hash=&limit=0&content_type=image%2Fgif&owner_uid=412389636&fsize=309694&hid=35df9cb1d22ca02fb5cd2d495791d000&media_type=image&tknv=v2&etag=f134c63eacbc944e75578f86ac3f5c73&rtoken=saW9mWtDz2p1&force_default=yes&ycrid=na-ccaff3ce697fee7911848a131ba81493-downloader17e&ts=5f75b97c66700&s=0193db9ea9737e94726c2464397d124c5008f181b9bb35e6e494f2911319b4d7&pb=U2FsdGVkX1_9WDjbdgNMBrlzs0-vCKQkCYNe6Hwbe6d6aRvA4t4mrDXAL7WuHqH0i7zg0mR593freHJWhvFZuNav3g1-iumCaLxTwKNzqcg" width="250" height="540">
